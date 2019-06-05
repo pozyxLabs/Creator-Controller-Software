@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "releases": [
+    {
+      "id": "creator-controller-software",
+      "name": "Creator Controller Software",
+      "about": "https://github.com/pozyxLabs/creator-controller-software",
+      "versions": [
+        {
+          "version": "2.0.0",
+          "download": "https://www.pozyx.io/documentation/creator-controller-software",
+          "changelog": "https://www.pozyx.io/documentation/creator-controller-software"
+        }
+      ]
+    }
+  ]
+}
